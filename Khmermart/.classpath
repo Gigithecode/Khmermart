@@ -2,7 +2,9 @@
 <classpath>
 	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="src" path="res"/>
-	<classpathentry kind="con" path="org.elipse.mtj.JavaMEContainer/SDK Provider Test SDK 1/SDK Provider Test Device 1"/>
-	<classpathentry kind="lib" path="C:/WTK2.5.2_01/lib/midpapi20.jar"/>
+	<classpathentry kind="lib" path="C:/Java_ME_platform_SDK_8.1/runtimes/meep/lib/classes.zip"/>
+	<classpathentry kind="lib" path="C:/WTK2.5.2_01/lib/midpapi21.jar"/>
+	<classpathentry kind="lib" path="C:/WTK2.5.2_01"/>
+	<classpathentry kind="con" path="org.elipse.mtj.JavaMEContainer/Sun Java(TM) Wireless Toolkit 2.5.2_01 for CLDC/DefaultColorPhone"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
